@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="first_emoji_color">#6A6868</color>
+    <color name="hint_color">#6A6868</color>
+    <color name="second_emoji_color">#015E55</color>
+
+    <color name="item_selected_color">#6DE0EF</color>
+    <color name="item_selected_stroke_color">#046960</color>
+
+
+
+
+
+</resources>
